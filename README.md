@@ -1,6 +1,6 @@
 # Flutter To-Do App
 
-A To-Do application built with Flutter and Dart to manage daily tasks easily.
+A simple To-Do application built with Flutter and Dart to manage daily tasks.
 
 ## Features
 
@@ -10,23 +10,23 @@ A To-Do application built with Flutter and Dart to manage daily tasks easily.
 - Mark tasks as completed
 - Organize tasks into Study, Work, and Personal categories
 - Search tasks
-- Filter tasks by completion status
-- Filter tasks by category
+- Filter tasks by completion status and category
 - Save tasks locally using SharedPreferences
 
 ## Technologies Used
 
 - Flutter
 - Dart
-- Material Design
 - SharedPreferences
+- Material Design
 
 ## Getting Started
 
 ### Prerequisites
 
 - Flutter SDK
-- VS Code or Android Studio
+- Dart SDK
+- Android Studio or VS Code
 
 ### Installation
 
@@ -36,10 +36,10 @@ A To-Do application built with Flutter and Dart to manage daily tasks easily.
    git clone YOUR_GITHUB_REPOSITORY_URL
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project folder:
 
    ```bash
-   cd todo_app
+   cd flutter-todo-app
    ```
 
 3. Install dependencies:
@@ -53,6 +53,12 @@ A To-Do application built with Flutter and Dart to manage daily tasks easily.
    ```bash
    flutter run
    ```
+
+## Future Improvements
+
+- Improve the UI and user experience
+- Add task due dates and reminders
+- Add cloud synchronization
 
 ## Author
 
